@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import {LoginForm} from './App';
+import {LoginForm} from './Form';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
